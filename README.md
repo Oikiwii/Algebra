@@ -11,16 +11,21 @@
 3. SQLite
 
 ##Главная страница
+</br>
 ![Главная страница](https://github.com/Oikiwii/Algebra/blob/main/ScreenAlgebra/MainScreen.png?raw=true)
 </br> </br> </br>
 ##Тема
+</br>
 ![Тема](https://github.com/Oikiwii/Algebra/blob/main/ScreenAlgebra/SubjectScreen.png?raw=true)
 </br> </br> </br>
 ##Таблица квадратов
+</br>
 ![Таблица квадратов](https://github.com/Oikiwii/Algebra/blob/main/ScreenAlgebra/TableScreen.png?raw=true)
 </br> </br> </br>
 ##Решение уравнения с помощью теоремы Виета
+</br>
 ![Решение уравнения с помощью теоремы Виета](https://github.com/Oikiwii/Algebra/blob/main/ScreenAlgebra/VietaScreen.png?raw=true)
 </br> </br> </br>
 ##Решение уравнения с помощью дискриминанта
+</br>
 ![Решение уравнения с помощью дискриминанта](https://github.com/Oikiwii/Algebra/blob/main/ScreenAlgebra/DisScreen.png?raw=true)
